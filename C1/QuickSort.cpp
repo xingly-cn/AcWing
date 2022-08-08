@@ -4,7 +4,7 @@
 #include "bits/stdc++.h"
 using namespace std;
 
-/*
+/**
  * 1.确定分界点x
  * 2.根据 x 将区间分成两部分
  * 3.递归处理两部分
